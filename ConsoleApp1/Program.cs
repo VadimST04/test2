@@ -11,10 +11,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int a = int.Parse(Console.ReadLine());
+            int a = 8;
             int b = 10;
             Console.WriteLine(a * b);
             Console.WriteLine("Goodbye!");
+
+            Console.WriteLine("Lorem ipsum dolor sit, amet consectetur adipisicing elit.");
         }
     }
 }
